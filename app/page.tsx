@@ -5,6 +5,7 @@ import ProgressCircle from '@/Components/ProgressCircle';
 import RewardCard from '@/Components/RewardCard';
 import TierSelector from '@/Components/TierSelector';
 import SMMPlans from '@/Components/SMMPlans';
+import './globals.css';
 
 
 const Home: NextPage = () => {
